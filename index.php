@@ -7,3 +7,4 @@ $c = $cn."_controller";
 // echo $_GET["ctl"];
 $controller = new $c();
 ?>
+
